@@ -1,0 +1,1 @@
+V = load_nii('mr1.nii')
